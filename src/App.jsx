@@ -6,6 +6,7 @@ import Dashboard from "./components/dashboard/Dashboard";
 import Admin from "./components/admin/Admin";
 
 const App = () => {
+  alert("Works only on Goerli test network.");
   return (
     <>
       <Navbar />
